@@ -1,0 +1,2 @@
+# GoLong
+My Go course
